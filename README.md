@@ -25,5 +25,3 @@ It’s lightweight, portable, and easy to adapt for **any similar result portal*
 
 ---
 
-## 📁 Project Structure
-
